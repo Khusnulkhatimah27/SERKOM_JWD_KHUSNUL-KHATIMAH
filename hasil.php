@@ -167,7 +167,7 @@ $result = mysqli_query($sat, $query); // mengeksekusi query dan menyimpan hasiln
                     data: <?php echo json_encode(array_column($data, 'jumlah')); ?>,
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.7)', // Merah Muda
-'rgba(54, 162, 235, 0.7)', // Biru
+                        'rgba(54, 162, 235, 0.7)', // Biru
 
                     ],
                 },],
@@ -238,8 +238,6 @@ $result = mysqli_query($sat, $query); // mengeksekusi query dan menyimpan hasiln
             });
         </script>
     
-
-
 </body>
 
 </html>

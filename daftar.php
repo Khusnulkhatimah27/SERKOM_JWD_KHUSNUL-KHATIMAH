@@ -37,11 +37,10 @@
 
 </head>
 
-<body class="bg-gradient-to-br from-red-100 to-red-300 flex flex-col min-h-screen">
+<body class="bg-gradient-to-br from-red-100 to-red-300 flex flex-col min-h-screen"> <!--ganti bg-->
     <!-- Bagian navigasi -->
     <nav class="grid grid-cols-3 justify-center text-center py-2 px-8 gap-10 bg-red-500">
-        <a href="index.php" class="hover:bg-red-600 bg-red-500 text-white font-semibold py-2 rounded-2xl">Pilihan
-            Beasiswa</a>
+        <a href="index.php" class="hover:bg-red-600 bg-red-500 text-white font-semibold py-2 rounded-2xl">Pilihan Beasiswa</a>
         <a href="daftar.php" class="hover:bg-red-600 bg-red-700 text-white font-semibold py-2 rounded-2xl">Daftar</a>
         <a href="hasil.php" class="hover:bg-red-600 bg-red-500 text-white font-semibold py-2 rounded-2xl">Hasil</a>
     </nav>
